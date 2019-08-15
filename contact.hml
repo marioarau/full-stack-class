@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+<HEAD>
+  <meta charset="UTF-8">
+
+<title>Mario Araujo's Portfolio</title>
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+</head>
+
+</HEAD>
+
+<body>
+
+  <section id="header">
+  <section id="nav">
+    <div class="myname">
+      Mario Araujo
+    </div>
+    <div class="topnav">
+      <a href="index.html" class="navitem">About</a>
+      <a href="portfolio.html" class="navitem">Portfolio</a>
+      <a href="contact.html" class="navitem">Contact</a>
+    </div>
+    <div class="clear"></div>
+</section>
+</section>
+
+
+<section id="main">
+
+<div id="container">
+
+<h2 class="teal">About Me</h2>
+<hr>
+
+<img src="assets/images/mario_araujo.jpg" width="200" class="bio-image">
+<p>House intelligence committee Chairman Adam B. Schiff threatened Wednesday to subpoena the FBI to divulge its plans to combat Russian interference in elections, saying the bureau for two years has stonewalled his attempts to find out the latest goings-on.
+
+The California Democrat said he hadn’t received updates or briefings since the ouster of FBI Director James B. Comey and that he is looking to force Director Christopher A. Wray to answer questions.
+
+“The FBI has an obligation under the National Security Act to brief us on any counterintelligence matter,” Mr. Schiff said. “If there are ongoing counterintelligence matters involving people around the president, they must inform us.”
+
+The House Permanent Select Committee on Intelligence held one of the first congressional hearings on special counsel Robert Mueller’s report into the 2016 presidential election, Russian meddling and President Trump’s behavior.
+
+The FBI began investigating Russian efforts in 2016, but Mr. Schiff said he has been unable to find out where things stand. He said he has received only “generic” responses and that the bureau has been so secretive he can’t even find out whether the investigation was ever shuttered.
+
+</p>
+ 
+<p>
+
+
+
+“We are determined to get answers, and we are running out of patience,” he told reporters.
+
+Mr. Schiff said he would “use whatever compulsion” is necessary to force the FBI to turn over the information but stopped short of giving a deadline for a subpoena.
+
+An FBI spokeswoman declined to comment.
+
+Throughout the hearing, Mr. Schiff complained about a lack of transparency surrounding the FBI’s counterintelligence work on the Trump campaign.
+
+“Were there other forms of compromise, like money laundering, left out, uninvestigated or referred to other offices? Were individuals granted security clearances that shouldn’t have them? And are there individuals still operating in the administration that leave America vulnerable?” Mr. Schiff said. “We are determined to find out.”
+
+Mr. Mueller’s report did detail a number of Russian efforts to interfere in the election, including using social media to sow dissension and attempting to hack some states’ elections databases.
+
+Mr. Mueller also documented some contacts between Russian operatives and Trump campaign figures and concluded that they both figured they would benefit if Mr. Trump won — but he found no evidence that they worked together.
+
+A panel of veteran national security experts at the hearing expanded on Russia’s efforts and fielded largely partisan questions from lawmakers.
+
+Democrats focused on Russian overtures to Trump campaign figures, including the 2016 Trump Tower meeting between some of the president’s family members and a Russian lawyer offering dirt on Democrats, former Trump campaign chairman Paul Manafort’s offer to share polling data with a Russian-linked associate, and Mr. Trump’s plan to build a skyscraper in Moscow.
+
+Republicans, meanwhile, said Justice Department officials ran a biased investigation intended to thwart Mr. Trump’s candidacy.
+
+They pointed to the FBI’s use of the salacious and unverified dossier compiled by former British spy Christopher Steele to obtain a surveillance warrant against a campaign adviser, the decision not to inform the Trump campaign that some of its members were being investigated, and Mr. Comey’s delay to inform Congress about the Russia probe.
+
+Rep. Devin Nunes of California, the committee’s ranking Republican, blasted Democrats, the press and Mr. Mueller, whose report he compared to the Steele dossier. He labeled it “a shoddy political hit piece.”
+
+“The only people who colluded with Russians were Democrats,” he said.
+
+Rep. Brad R. Wenstrup, Ohio Republican, bemoaned the committee’s deep political divide, saying it was “very nonpartisan” just two years ago. He said Russian President Vladimir Putin’s real goal was rancor rather than electing Mr. Trump.
+
+“We are giving him everything he wants beyond his wildest dreams,” Mr. Wenstrup said.
+
+That did not stop fellow Republicans from joining the blame game.
+
+Rep. Eric A. “Rick” Crawford, Arkansas Republican, said the Obama administration hid the extent of Russian meddling attempts to try to boost Hillary Clinton’s chances to win the election.
+
+While the politicians sparred, the witnesses warned that Russian intelligence agencies will keep trying to meddle in U.S. elections.
+
+“They’re not leaving. I can guarantee you they’re still here looking at the next presidential election and figuring out how they can still attack it,” said Robert Anderson, a former FBI counterintelligence official.
+
+Another former FBI official, Stephanie Douglas, said Russian overtures to Trump campaign officials show the depth of their interference efforts. She said it is a classic part of their playbook.
+
+“It doesn’t surprise me they are going after or at least appearing to meet with numerous individuals inside the campaign,” she said. “They will never have one point of failure. They will make sure they have numerous aspects or points where they can get it done.”
+
+Copyright © 2019 The Washington Times, LLC. Click here for reprint permission.
+</p>
+</div>
+
+
+</div>
+
+</section>
+
+
+<H2>This is a Medium Header</H2>
+
+Send me mail at <a href="mailto:support@yourcompany.com">
+
+support@yourcompany.com</a>.
+
+<P> This is a new paragraph!
+
+<P> <B>This is a new paragraph!</B>
+
+<BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
+
+<HR>
+
+</BODY>
+
+</HTML>

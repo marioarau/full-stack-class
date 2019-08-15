@@ -1,0 +1,156 @@
+body {
+    padding: 0;
+    margin: 0;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #777;
+    background-color: #fff;
+	/* For heading fonts use font-family: 'Georgia', Times, Times New Roman, serif;.
+	For all other fonts use 'Arial', 'Helvetica Neue', Helvetica, sans-serif;. */
+  }
+
+  a:link {
+    color: #AAA;
+  }
+  
+  /* visited link */
+  a:focus {
+    color: #333;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #4aaaa5;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #0080C0;
+  } 
+  
+  h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+    background: #333;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  a {
+    color: #555;
+    }
+#header {
+	margin:auto !important;
+	background-color: #fff;
+	margin: 0 10%;
+	padding: 0 0 0 24px;
+	width: 960px;
+}
+#main {
+    border-top: 4px solid #CCC;
+ /*   border-bottom: 8px solid #CCC; */
+  	background-image:url(../images/floor-tile.png);
+  	padding: 0 24px 68px 24px;
+}
+#container{
+    border: 3px solid #ddd;
+	margin: auto;
+	padding: 8px 32px;
+	background-color: #fff;
+	position:relative;
+	top: 34px;
+	bottom: 34px;
+	width: 960px;
+} 
+.teal {
+  color: #4aaaa5;
+  font-size: 2em;
+}
+.clear {
+  clear:both;
+}
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+ 
+#main p {
+  line-height: 32px;
+}
+
+  .myname {
+    float: left;
+    font-size: 2em;
+    padding: 24px;
+    color: #fff;
+    background-color: #4aaaa5;
+  }
+  
+  .topnav {
+    float: right;
+    padding: 18px 0;
+    margin: 10px;
+    overflow: hidden;
+    }
+
+  .navitem {
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    margin: 10px;
+  }
+    
+	.bio-image {
+    	width: 200px;
+    	height: 200px;
+    margin-right: 20px;
+    float:left;
+  }
+#footer {
+	background-color: #666;
+	border-top: 8px solid #4aaaa5;
+	position:relative;
+    height: 30px;
+	padding: 14px;
+	text-align:center;
+	color:#CCC;
+	font-size:small;
+}
+#content {
+  min-height: calc(100vh - 50px);
+}
+#contact-form-box
+{
+    height: 18px;
+	padding: 8px;
+    font-size:14pt;
+}
+#contact-form-textarea
+{
+	padding: 8px;
+    font-size:14pt;
+}
+#contact-form-submit
+{
+	padding: 10px;
+    font-size:18pt;
+}
+#row
+{
+    margin-top: 21px;
+}
+.portfolio-image-left {
+	padding: 8px;
+    margin-right: 5px;
+}
+.portfolio-image-right {
+	padding: 8px;
+    margin-left: 5px;
+}
