@@ -52,64 +52,35 @@ body {
 	width: 100%;
 	height: 75%;
 }
-@media screen and (max-width:400px){
+ /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
 	.portfolio_img {
-		width: 200px;
-		height: 150px;
-  }
-  #main p {
-    line-height: 24px !important;
-    font-size: 14px !important;
-  }
+		width: 500px;
+		height: 375px;
+	}
 	.bio-image {
-    width: 150px;
-    height: 150px;
-  margin-right: 9px;
+    width: 100px;
+    height: 100px;
+  margin-right: 10px;
   float:left;
 }
-.teal {
-  color: #006ab3;
-  font-size: 1.2em;
-  margin-left: .2em;
-  margin-top: .1em;
 }
-.myname{
-      font-size: 18px;
-      float: left;
-      padding: .5em;
-      color: #fff!important;
-      background-color: #006ab3;
-      }
-}
+
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 401px) {
+@media only screen and (min-width: 600px) {
 	.portfolio_img {
 		width: 600px;
 		height: 451px;
   }
   #main p {
-    line-height: 26px;
-    font-size: 18px;
+    line-height: 32px;
+    font-size: 16px;
   }
 	.bio-image {
-    width: 180px;
-    height: 180px;
-  margin-right: 10px;
+    width: 130px;
+    height: 130px;
+  margin-right: 12px;
   float:left;
-}
-.teal {
-  color: #006ab3;
-  font-size: 1.4em;
-  margin-left: .2em;
-  margin-top: .1em;
-}
-.myname {
-  float: left;
-  font-size: 1.4em;
-  padding: .4em;
-  color: #fff!important;
-  background-color: #006ab3;
-    
 }
 
   
@@ -118,55 +89,28 @@ body {
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   #main p {
-    line-height: 30px;
-    font-size: 24px;
+    line-height: 32px;
   }
 	.bio-image {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
   margin-right: 14px;
   float:left;
-  }
-  .teal {
-    color: #006ab3;
-    font-size: 1.8em;
-    margin-left: .2em;
-    margin-top: .1em;
-  }
-  .myname {
-    float: left;
-    font-size: 1.8em;
-    padding: .6em;
-    color: #fff!important;
-    background-color: #006ab3;
-  }
+}
+
+    
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
   #main p {
-    line-height: 34px;
-    font-size: 24px;
+    line-height: 32px;
   }
 	.bio-image {
-    width: 270px;
-    height: 270px;
-  margin-right: 17px;
+    width: 180px;
+    height: 180px;
+  margin-right: 16px;
   float:left;
-}
-.teal {
-  color: #006ab3;
-  font-size: 2.1em;
-  margin-left: .2em;
-  margin-top: .1em;
-}
-.myname {
-  float: left;
-  font-size: 2em;
-  padding: .7em;
-  color: #fff!important;
-  background-color: #006ab3;
-    
 }
 }
 
@@ -175,13 +119,9 @@ body {
   #main p {
     line-height: 32px;
   }
-  #main p {
-    line-height: 32px;
-    font-size: 1.1em;
-  }
 	.bio-image {
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
   margin-right: 20px;
   float:left;
 }
@@ -210,6 +150,12 @@ body {
 	bottom: 1.8em;
 	width: 98%;
 } 
+.teal {
+  color: #006ab3;
+  font-size: 2em;
+  margin-left: .2em;
+  margin-top: .1em;
+}
 .clear {
   clear:both;
 }
@@ -218,9 +164,13 @@ body {
   margin: 0 auto;
 }
  
-.navbar.bg-light{
-    background: none!important;
-}
+  .myname {
+    float: left;
+    font-size: 2em;
+    padding: .7em;
+    color: #fff;
+    background-color: #006ab3;
+  }
   
   .topnav {
     float: right;
@@ -248,12 +198,9 @@ body {
 #content {
   min-height: calc(100vh - 50px);
 }
-#contact-form{
-    max-width: 500px;
-}
 #contact-form-box
 {
-    height: 40px;
+    height: 18px;
 	padding: 8px;
     font-size:14pt;
 }
